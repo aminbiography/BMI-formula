@@ -1,4 +1,8 @@
+Live URL:
 
+https://aminbiography.github.io/bmi-calculetor/
+
+OR,   ..........................................
 
 Python script for calculating the Body Mass Index (BMI) and categorizing it into different weight categories. Here is a brief description of each function:
 
